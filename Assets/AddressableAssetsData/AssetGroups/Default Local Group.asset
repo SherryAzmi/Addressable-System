@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 9726db7128be433419a434124e4d95a8
+  m_SerializeEntries:
+  - m_GUID: 371711cf542f6d84bafd6596c502935b
+    m_Address: Assets/Sci Fi Gun Light/Prefabs/SciFiGunLight/SciFiGunLight_Blue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d32892c82a841e34bb692140d685dcfc
+    m_Address: Assets/Sci Fi Gun Light/Prefabs/SciFiGunLight/SciFiGunLight_Black.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0a091bd295d837a419b3d48d42c222ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e76f60b415856440bf0e4e6a5de8668, type: 2}
+    - {fileID: 11400000, guid: 95a1df9c32fff5443a7909bce4b9663c, type: 2}
